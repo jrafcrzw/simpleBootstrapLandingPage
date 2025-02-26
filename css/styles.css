@@ -10919,3 +10919,21 @@ header.masthead .bg-circle-4 {
     font-size: 4rem;
   }
 }
+
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.dark-mode .navbar-custom {
+  background-color: #1f1f1f;
+}
+
+.dark-mode .nav-link {
+  color: #ffffff !important;
+}
+
+.dark-mode .navbar-brand {
+  color: #ffffff !important;
+}
